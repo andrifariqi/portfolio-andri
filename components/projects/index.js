@@ -9,7 +9,7 @@ export default function Projects() {
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-full xl:flex xl:flex-row mt-20">
             <h1 className="mb-5 text-5xl font-bold xl:hidden">Projects</h1>
-            <div className="card w-80 glass mx-3 my-3" data-aos="fade-right" data-aos-duration="1500" data-aos-easing="linear">
+            <div className="card w-80 glass mx-3 my-3" data-aos="flip-up" data-aos-duration="1500">
               <figure>
                 <video className="h-60" controls>
                   <source src="https://firebasestorage.googleapis.com/v0/b/binar-andri.appspot.com/o/CV_Uza_Service.mp4?alt=media&token=7d788604-adde-4380-a948-00aed0d5145a"></source>
@@ -31,7 +31,7 @@ export default function Projects() {
               </div>
             </div>
 
-            <div className="card w-80 glass mx-3 my-3" data-aos="flip-up" data-aos-duration="1000" data-aos-easing="linear">
+            <div className="card w-80 glass mx-3 my-3" data-aos="flip-up" data-aos-duration="1000">
               <figure>
                 <video className="h-60" controls>
                   <source src="https://firebasestorage.googleapis.com/v0/b/binar-andri.appspot.com/o/Manassa.mp4?alt=media&token=fc18f07d-35eb-492d-8bef-4b6f9c786cf3"></source>
@@ -53,7 +53,7 @@ export default function Projects() {
               </div>
             </div>
 
-            <div className="card w-80 glass mx-3 my-3" data-aos="flip-down" data-aos-duration="1000" data-aos-easing="linear">
+            <div className="card w-80 glass mx-3 my-3" data-aos="flip-down" data-aos-duration="1000">
               <figure>
                 <video className="h-60" controls>
                   <source src="https://firebasestorage.googleapis.com/v0/b/ecommerce-mystore-weblanding2.appspot.com/o/MyStore.mp4?alt=media&token=497de692-009d-4a49-8c0a-bd6ea5d30dc3"></source>
@@ -75,7 +75,7 @@ export default function Projects() {
               </div>
             </div>
 
-            <div className="card w-80 glass mx-3 my-3" data-aos="fade-left" data-aos-duration="1500" data-aos-easing="linear">
+            <div className="card w-80 glass mx-3 my-3" data-aos="flip-down" data-aos-duration="1500">
               <figure>
                 <video className="h-60" controls>
                   <source src="https://firebasestorage.googleapis.com/v0/b/ecommerce-mystore-weblanding2.appspot.com/o/MyStoreCMS.mp4?alt=media&token=f4c68bf0-8e2b-48e3-b9de-9ee208471574"></source>
